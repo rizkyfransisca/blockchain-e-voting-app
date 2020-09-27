@@ -4,7 +4,7 @@ class HelloWorld {
     }
 
     async datascience() {
-        return 'data sciencce';
+        return 'data sciencce baru';
     }
 }
 
